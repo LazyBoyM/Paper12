@@ -1,0 +1,23 @@
+{
+  "deblurring": {
+    "file": "deblurring.pth",
+    "bytes": 80517630,
+    "sha256": "70a45be8899bc168bea8dae14be56f90b2343d7f674ee8c52d53ac51d6cb144b",
+    "source": "https://drive.google.com/file/d/1QwQUVbk6YVOJViCsOKYNykCsdJSVGRtb/view",
+    "repository": "https://github.com/swz30/MPRNet"
+  },
+  "deraining": {
+    "file": "deraining.pth",
+    "bytes": 14598292,
+    "sha256": "d73d057a097e1cc97fbbea8481e98873f61ba4ee416834d9ef8201908e46dee5",
+    "source": "https://drive.google.com/file/d/1O3WEJbcat7eTY6doXWeorAbQ1l_WmMnM/view",
+    "repository": "https://github.com/swz30/MPRNet"
+  },
+  "denoising": {
+    "file": "denoising.pth",
+    "bytes": 62986694,
+    "sha256": "8b438e140767b951694ff2dcd9a95a77f8dde5bc41657c4315093483c3e8403e",
+    "source": "https://drive.google.com/file/d/1LODPt9kYmxwU98g96UrRA0_Eh5HYcsRw/view",
+    "repository": "https://github.com/swz30/MPRNet"
+  }
+}

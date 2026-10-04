@@ -1,0 +1,14 @@
+.deps/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+results/
+native-check-results.json
+*.log
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
